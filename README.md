@@ -22,7 +22,7 @@
 <ul type="square">
     <li>przejście do nowego wiersza < br > </li>
     <li>zapobieganie automatycznemu przenoszeniu fragmentu tekstu do następnej linijki < nobr > < /nobr > </li>
-    <li>spacja niełamliwa & nbsp </li>
+    <li>spacja niełamliwa &nbsp; </li>
 </ul>
 <div class="ramka">
         <h2>Poniżej są cztery numerowania z różnymi znakami numerowania</h2>
